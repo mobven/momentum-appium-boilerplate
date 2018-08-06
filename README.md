@@ -1,5 +1,7 @@
 # Momentum Appium Sample
 
+![GitHub Logo](/logo.png)
+
 A small node library helps you to run your Momentum scripts from your own terminal.
 
 ## Getting Started
