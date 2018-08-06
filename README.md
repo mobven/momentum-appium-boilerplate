@@ -25,7 +25,12 @@ npm i -g mocha
 
 ### Installing
 
-After you checkout the project
+Clone the project
+
+```
+git clone https://github.com/mobven/momentum-appium-sample
+cd momentum-appium-sample
+```
 
 Install dependencies via following command
 
