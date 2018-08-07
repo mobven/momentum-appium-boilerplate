@@ -1,8 +1,8 @@
-# Momentum Appium Sample
+# Momentum Appium Boilerplate
 
 ![GitHub Logo](/logo.png)
 
-A small node library helps you to run your Momentum scripts from your own terminal.
+A small node starter-kit that helps you to run your Momentum scripts from your own terminal.
 
 ## Getting Started
 
