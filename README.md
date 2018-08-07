@@ -28,8 +28,8 @@ npm i -g mocha
 Clone the project
 
 ```
-git clone https://github.com/mobven/momentum-appium-sample
-cd momentum-appium-sample
+git clone https://github.com/mobven/momentum-appium-boilerplate
+cd momentum-appium-boilerplate
 ```
 
 Install dependencies via following command
