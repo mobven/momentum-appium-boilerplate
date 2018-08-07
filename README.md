@@ -67,7 +67,7 @@ exports.serverConfig = {
 
 ## Prepare for testing
 
-Put your generated Momentum scripts under scripts/momentum folder
+Put your generated Momentum scripts(Ask for details) under scripts/momentum folder
 
 
 ### Run the tests
